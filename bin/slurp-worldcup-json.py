@@ -77,6 +77,16 @@ def fix_time_and_date(matches):
     return new_matches
 
 
+def fix_rounds(matches):
+    new_matches = copy.deepcopy(matches)
+
+    for match in new_matches:
+        if match["round"].startswith("Matchday"):
+            match["round"] = "Groups"
+
+    return new_matches
+
+
 def main():
     with open("worldcup.json/2026/worldcup.json", "r") as f:
         data = json.load(f)
@@ -85,6 +95,7 @@ def main():
     matches = add_timestamps(matches)
     matches = fix_time_and_date(matches)
     matches = sorted_by_timestamp(matches)
+    matches = fix_rounds(matches)
     matches = adiciona_id(matches)
     matches = remove_nums(matches)
 

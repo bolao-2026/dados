@@ -1,6 +1,6 @@
 [
   {
-    "round": "Matchday 1",
+    "round": "Groups",
     "date": "2026-06-11",
     "time": "16:00 UTC-3",
     "team1": "Mexico",
@@ -11,7 +11,7 @@
     "id": 1
   },
   {
-    "round": "Matchday 1",
+    "round": "Groups",
     "date": "2026-06-11",
     "time": "23:00 UTC-3",
     "team1": "South Korea",
@@ -22,7 +22,7 @@
     "id": 2
   },
   {
-    "round": "Matchday 2",
+    "round": "Groups",
     "date": "2026-06-12",
     "time": "16:00 UTC-3",
     "team1": "Canada",
@@ -33,7 +33,7 @@
     "id": 3
   },
   {
-    "round": "Matchday 2",
+    "round": "Groups",
     "date": "2026-06-12",
     "time": "22:00 UTC-3",
     "team1": "USA",
@@ -44,7 +44,7 @@
     "id": 4
   },
   {
-    "round": "Matchday 3",
+    "round": "Groups",
     "date": "2026-06-13",
     "time": "16:00 UTC-3",
     "team1": "Qatar",
@@ -55,7 +55,7 @@
     "id": 5
   },
   {
-    "round": "Matchday 3",
+    "round": "Groups",
     "date": "2026-06-13",
     "time": "19:00 UTC-3",
     "team1": "Brazil",
@@ -66,7 +66,7 @@
     "id": 6
   },
   {
-    "round": "Matchday 3",
+    "round": "Groups",
     "date": "2026-06-13",
     "time": "22:00 UTC-3",
     "team1": "Haiti",
@@ -77,7 +77,7 @@
     "id": 7
   },
   {
-    "round": "Matchday 3",
+    "round": "Groups",
     "date": "2026-06-14",
     "time": "01:00 UTC-3",
     "team1": "Australia",
@@ -88,7 +88,7 @@
     "id": 8
   },
   {
-    "round": "Matchday 4",
+    "round": "Groups",
     "date": "2026-06-14",
     "time": "14:00 UTC-3",
     "team1": "Germany",
@@ -99,7 +99,7 @@
     "id": 9
   },
   {
-    "round": "Matchday 4",
+    "round": "Groups",
     "date": "2026-06-14",
     "time": "17:00 UTC-3",
     "team1": "Netherlands",
@@ -110,7 +110,7 @@
     "id": 10
   },
   {
-    "round": "Matchday 4",
+    "round": "Groups",
     "date": "2026-06-14",
     "time": "20:00 UTC-3",
     "team1": "Ivory Coast",
@@ -121,7 +121,7 @@
     "id": 11
   },
   {
-    "round": "Matchday 4",
+    "round": "Groups",
     "date": "2026-06-14",
     "time": "23:00 UTC-3",
     "team1": "Sweden",
@@ -132,7 +132,7 @@
     "id": 12
   },
   {
-    "round": "Matchday 5",
+    "round": "Groups",
     "date": "2026-06-15",
     "time": "13:00 UTC-3",
     "team1": "Spain",
@@ -143,7 +143,7 @@
     "id": 13
   },
   {
-    "round": "Matchday 5",
+    "round": "Groups",
     "date": "2026-06-15",
     "time": "16:00 UTC-3",
     "team1": "Belgium",
@@ -154,7 +154,7 @@
     "id": 14
   },
   {
-    "round": "Matchday 5",
+    "round": "Groups",
     "date": "2026-06-15",
     "time": "19:00 UTC-3",
     "team1": "Saudi Arabia",
@@ -165,7 +165,7 @@
     "id": 15
   },
   {
-    "round": "Matchday 5",
+    "round": "Groups",
     "date": "2026-06-15",
     "time": "22:00 UTC-3",
     "team1": "Iran",
@@ -176,7 +176,7 @@
     "id": 16
   },
   {
-    "round": "Matchday 6",
+    "round": "Groups",
     "date": "2026-06-16",
     "time": "16:00 UTC-3",
     "team1": "France",
@@ -187,7 +187,7 @@
     "id": 17
   },
   {
-    "round": "Matchday 6",
+    "round": "Groups",
     "date": "2026-06-16",
     "time": "19:00 UTC-3",
     "team1": "Iraq",
@@ -198,7 +198,7 @@
     "id": 18
   },
   {
-    "round": "Matchday 6",
+    "round": "Groups",
     "date": "2026-06-16",
     "time": "22:00 UTC-3",
     "team1": "Argentina",
@@ -209,7 +209,7 @@
     "id": 19
   },
   {
-    "round": "Matchday 6",
+    "round": "Groups",
     "date": "2026-06-17",
     "time": "01:00 UTC-3",
     "team1": "Austria",
@@ -220,7 +220,7 @@
     "id": 20
   },
   {
-    "round": "Matchday 7",
+    "round": "Groups",
     "date": "2026-06-17",
     "time": "14:00 UTC-3",
     "team1": "Portugal",
@@ -231,7 +231,7 @@
     "id": 21
   },
   {
-    "round": "Matchday 7",
+    "round": "Groups",
     "date": "2026-06-17",
     "time": "17:00 UTC-3",
     "team1": "England",
@@ -242,7 +242,7 @@
     "id": 22
   },
   {
-    "round": "Matchday 7",
+    "round": "Groups",
     "date": "2026-06-17",
     "time": "20:00 UTC-3",
     "team1": "Ghana",
@@ -253,7 +253,7 @@
     "id": 23
   },
   {
-    "round": "Matchday 7",
+    "round": "Groups",
     "date": "2026-06-17",
     "time": "23:00 UTC-3",
     "team1": "Uzbekistan",
@@ -264,7 +264,7 @@
     "id": 24
   },
   {
-    "round": "Matchday 8",
+    "round": "Groups",
     "date": "2026-06-18",
     "time": "13:00 UTC-3",
     "team1": "Czech Republic",
@@ -275,7 +275,7 @@
     "id": 25
   },
   {
-    "round": "Matchday 8",
+    "round": "Groups",
     "date": "2026-06-18",
     "time": "16:00 UTC-3",
     "team1": "Switzerland",
@@ -286,7 +286,7 @@
     "id": 26
   },
   {
-    "round": "Matchday 8",
+    "round": "Groups",
     "date": "2026-06-18",
     "time": "19:00 UTC-3",
     "team1": "Canada",
@@ -297,7 +297,7 @@
     "id": 27
   },
   {
-    "round": "Matchday 8",
+    "round": "Groups",
     "date": "2026-06-18",
     "time": "22:00 UTC-3",
     "team1": "Mexico",
@@ -308,7 +308,7 @@
     "id": 28
   },
   {
-    "round": "Matchday 9",
+    "round": "Groups",
     "date": "2026-06-19",
     "time": "16:00 UTC-3",
     "team1": "USA",
@@ -319,7 +319,7 @@
     "id": 29
   },
   {
-    "round": "Matchday 9",
+    "round": "Groups",
     "date": "2026-06-19",
     "time": "19:00 UTC-3",
     "team1": "Scotland",
@@ -330,7 +330,7 @@
     "id": 30
   },
   {
-    "round": "Matchday 9",
+    "round": "Groups",
     "date": "2026-06-19",
     "time": "22:00 UTC-3",
     "team1": "Brazil",
@@ -341,7 +341,7 @@
     "id": 31
   },
   {
-    "round": "Matchday 9",
+    "round": "Groups",
     "date": "2026-06-20",
     "time": "01:00 UTC-3",
     "team1": "Turkey",
@@ -352,7 +352,7 @@
     "id": 32
   },
   {
-    "round": "Matchday 10",
+    "round": "Groups",
     "date": "2026-06-20",
     "time": "14:00 UTC-3",
     "team1": "Netherlands",
@@ -363,7 +363,7 @@
     "id": 33
   },
   {
-    "round": "Matchday 10",
+    "round": "Groups",
     "date": "2026-06-20",
     "time": "17:00 UTC-3",
     "team1": "Germany",
@@ -374,7 +374,7 @@
     "id": 34
   },
   {
-    "round": "Matchday 10",
+    "round": "Groups",
     "date": "2026-06-20",
     "time": "21:00 UTC-3",
     "team1": "Ecuador",
@@ -385,7 +385,7 @@
     "id": 35
   },
   {
-    "round": "Matchday 10",
+    "round": "Groups",
     "date": "2026-06-21",
     "time": "01:00 UTC-3",
     "team1": "Tunisia",
@@ -396,7 +396,7 @@
     "id": 36
   },
   {
-    "round": "Matchday 11",
+    "round": "Groups",
     "date": "2026-06-21",
     "time": "13:00 UTC-3",
     "team1": "Spain",
@@ -407,7 +407,7 @@
     "id": 37
   },
   {
-    "round": "Matchday 11",
+    "round": "Groups",
     "date": "2026-06-21",
     "time": "16:00 UTC-3",
     "team1": "Belgium",
@@ -418,7 +418,7 @@
     "id": 38
   },
   {
-    "round": "Matchday 11",
+    "round": "Groups",
     "date": "2026-06-21",
     "time": "19:00 UTC-3",
     "team1": "Uruguay",
@@ -429,7 +429,7 @@
     "id": 39
   },
   {
-    "round": "Matchday 11",
+    "round": "Groups",
     "date": "2026-06-21",
     "time": "22:00 UTC-3",
     "team1": "New Zealand",
@@ -440,7 +440,7 @@
     "id": 40
   },
   {
-    "round": "Matchday 12",
+    "round": "Groups",
     "date": "2026-06-22",
     "time": "14:00 UTC-3",
     "team1": "Argentina",
@@ -451,7 +451,7 @@
     "id": 41
   },
   {
-    "round": "Matchday 12",
+    "round": "Groups",
     "date": "2026-06-22",
     "time": "18:00 UTC-3",
     "team1": "France",
@@ -462,7 +462,7 @@
     "id": 42
   },
   {
-    "round": "Matchday 12",
+    "round": "Groups",
     "date": "2026-06-22",
     "time": "21:00 UTC-3",
     "team1": "Norway",
@@ -473,7 +473,7 @@
     "id": 43
   },
   {
-    "round": "Matchday 12",
+    "round": "Groups",
     "date": "2026-06-23",
     "time": "00:00 UTC-3",
     "team1": "Jordan",
@@ -484,7 +484,7 @@
     "id": 44
   },
   {
-    "round": "Matchday 13",
+    "round": "Groups",
     "date": "2026-06-23",
     "time": "14:00 UTC-3",
     "team1": "Portugal",
@@ -495,7 +495,7 @@
     "id": 45
   },
   {
-    "round": "Matchday 13",
+    "round": "Groups",
     "date": "2026-06-23",
     "time": "17:00 UTC-3",
     "team1": "England",
@@ -506,7 +506,7 @@
     "id": 46
   },
   {
-    "round": "Matchday 13",
+    "round": "Groups",
     "date": "2026-06-23",
     "time": "20:00 UTC-3",
     "team1": "Panama",
@@ -517,7 +517,7 @@
     "id": 47
   },
   {
-    "round": "Matchday 13",
+    "round": "Groups",
     "date": "2026-06-23",
     "time": "23:00 UTC-3",
     "team1": "Colombia",
@@ -528,7 +528,7 @@
     "id": 48
   },
   {
-    "round": "Matchday 14",
+    "round": "Groups",
     "date": "2026-06-24",
     "time": "16:00 UTC-3",
     "team1": "Switzerland",
@@ -539,7 +539,7 @@
     "id": 49
   },
   {
-    "round": "Matchday 14",
+    "round": "Groups",
     "date": "2026-06-24",
     "time": "16:00 UTC-3",
     "team1": "Bosnia & Herzegovina",
@@ -550,7 +550,7 @@
     "id": 50
   },
   {
-    "round": "Matchday 14",
+    "round": "Groups",
     "date": "2026-06-24",
     "time": "19:00 UTC-3",
     "team1": "Scotland",
@@ -561,7 +561,7 @@
     "id": 51
   },
   {
-    "round": "Matchday 14",
+    "round": "Groups",
     "date": "2026-06-24",
     "time": "19:00 UTC-3",
     "team1": "Morocco",
@@ -572,7 +572,7 @@
     "id": 52
   },
   {
-    "round": "Matchday 14",
+    "round": "Groups",
     "date": "2026-06-24",
     "time": "22:00 UTC-3",
     "team1": "Czech Republic",
@@ -583,7 +583,7 @@
     "id": 53
   },
   {
-    "round": "Matchday 14",
+    "round": "Groups",
     "date": "2026-06-24",
     "time": "22:00 UTC-3",
     "team1": "South Africa",
@@ -594,7 +594,7 @@
     "id": 54
   },
   {
-    "round": "Matchday 15",
+    "round": "Groups",
     "date": "2026-06-25",
     "time": "17:00 UTC-3",
     "team1": "Cura\u00e7ao",
@@ -605,7 +605,7 @@
     "id": 55
   },
   {
-    "round": "Matchday 15",
+    "round": "Groups",
     "date": "2026-06-25",
     "time": "17:00 UTC-3",
     "team1": "Ecuador",
@@ -616,7 +616,7 @@
     "id": 56
   },
   {
-    "round": "Matchday 15",
+    "round": "Groups",
     "date": "2026-06-25",
     "time": "20:00 UTC-3",
     "team1": "Japan",
@@ -627,7 +627,7 @@
     "id": 57
   },
   {
-    "round": "Matchday 15",
+    "round": "Groups",
     "date": "2026-06-25",
     "time": "20:00 UTC-3",
     "team1": "Tunisia",
@@ -638,7 +638,7 @@
     "id": 58
   },
   {
-    "round": "Matchday 15",
+    "round": "Groups",
     "date": "2026-06-25",
     "time": "23:00 UTC-3",
     "team1": "Turkey",
@@ -649,7 +649,7 @@
     "id": 59
   },
   {
-    "round": "Matchday 15",
+    "round": "Groups",
     "date": "2026-06-25",
     "time": "23:00 UTC-3",
     "team1": "Paraguay",
@@ -660,7 +660,7 @@
     "id": 60
   },
   {
-    "round": "Matchday 16",
+    "round": "Groups",
     "date": "2026-06-26",
     "time": "16:00 UTC-3",
     "team1": "Norway",
@@ -671,7 +671,7 @@
     "id": 61
   },
   {
-    "round": "Matchday 16",
+    "round": "Groups",
     "date": "2026-06-26",
     "time": "16:00 UTC-3",
     "team1": "Senegal",
@@ -682,7 +682,7 @@
     "id": 62
   },
   {
-    "round": "Matchday 16",
+    "round": "Groups",
     "date": "2026-06-26",
     "time": "21:00 UTC-3",
     "team1": "Cape Verde",
@@ -693,7 +693,7 @@
     "id": 63
   },
   {
-    "round": "Matchday 16",
+    "round": "Groups",
     "date": "2026-06-26",
     "time": "21:00 UTC-3",
     "team1": "Uruguay",
@@ -704,7 +704,7 @@
     "id": 64
   },
   {
-    "round": "Matchday 16",
+    "round": "Groups",
     "date": "2026-06-27",
     "time": "00:00 UTC-3",
     "team1": "Egypt",
@@ -715,7 +715,7 @@
     "id": 65
   },
   {
-    "round": "Matchday 16",
+    "round": "Groups",
     "date": "2026-06-27",
     "time": "00:00 UTC-3",
     "team1": "New Zealand",
@@ -726,7 +726,7 @@
     "id": 66
   },
   {
-    "round": "Matchday 17",
+    "round": "Groups",
     "date": "2026-06-27",
     "time": "18:00 UTC-3",
     "team1": "Panama",
@@ -737,7 +737,7 @@
     "id": 67
   },
   {
-    "round": "Matchday 17",
+    "round": "Groups",
     "date": "2026-06-27",
     "time": "18:00 UTC-3",
     "team1": "Croatia",
@@ -748,7 +748,7 @@
     "id": 68
   },
   {
-    "round": "Matchday 17",
+    "round": "Groups",
     "date": "2026-06-27",
     "time": "20:30 UTC-3",
     "team1": "Colombia",
@@ -759,7 +759,7 @@
     "id": 69
   },
   {
-    "round": "Matchday 17",
+    "round": "Groups",
     "date": "2026-06-27",
     "time": "20:30 UTC-3",
     "team1": "DR Congo",
@@ -770,7 +770,7 @@
     "id": 70
   },
   {
-    "round": "Matchday 17",
+    "round": "Groups",
     "date": "2026-06-27",
     "time": "23:00 UTC-3",
     "team1": "Algeria",
@@ -781,7 +781,7 @@
     "id": 71
   },
   {
-    "round": "Matchday 17",
+    "round": "Groups",
     "date": "2026-06-27",
     "time": "23:00 UTC-3",
     "team1": "Jordan",
