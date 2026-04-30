@@ -2,6 +2,9 @@
 
 WORLDCUP_DIR="worldcup.json"
 
+# guarda diretório base
+BASEDIR="${PWD}"
+
 # garante existência do diretório para os dados
 mkdir -p ${WORLDCUP_DIR} && cd ${WORLDCUP_DIR}
 
@@ -22,3 +25,6 @@ git pull origin master
 
 # apaga o repositório temporário
 rm -rf .git
+
+# atualiza a tabela
+./bin/slurp-worldcup-json.py
