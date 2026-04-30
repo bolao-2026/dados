@@ -64,12 +64,26 @@ def remove_nums(matches):
     return new_matches
 
 
+def fix_time_and_date(matches):
+    new_matches = copy.deepcopy(matches)
+
+    for match in new_matches:
+        ts = match["timestamp"]
+        dt = datetime.strptime(ts, "%Y-%m-%dT%H:%M:%S%z")
+
+        match["date"] = dt.strftime("%Y-%m-%d")
+        match["time"] = dt.strftime("%H:%M UTC-3")
+
+    return new_matches
+
+
 def main():
     with open("worldcup.json/2026/worldcup.json", "r") as f:
         data = json.load(f)
 
     matches = get_matches(data)
     matches = add_timestamps(matches)
+    matches = fix_time_and_date(matches)
     matches = sorted_by_timestamp(matches)
     matches = adiciona_id(matches)
     matches = remove_nums(matches)
