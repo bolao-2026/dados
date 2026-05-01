@@ -3,7 +3,10 @@
 import json
 import copy
 import re
+import os
 from datetime import datetime, timedelta, timezone
+
+OUTPUT_DIR = "dados"
 
 
 def get_matches(data):
@@ -99,7 +102,7 @@ def main():
     matches = adiciona_id(matches)
     matches = remove_nums(matches)
 
-    with open("tabela-da-copa-2026.json", "w") as f:
+    with open(os.path.join(OUTPUT_DIR, "tabela-da-copa-2026.json"), "w") as f:
         json.dump(matches, f, indent=2)
 
 
